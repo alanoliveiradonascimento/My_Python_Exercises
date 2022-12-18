@@ -15,7 +15,7 @@ root.geometry("750x250")
 #O texto que será mostrado na janela: "Esse é um Widget de Label!"
 #A fonte e tamanho da fonte do texto que será exibido: Fonte: Arial, Tamanho: 20
 texto = Label(root, text="Esse é um Widget de Label!", font='Arial 20')
-#Pack é o método que irá inserir o Lable texto na tela.
+#Pack é o método que irá inserir o Lable texto no frame ou janela.
 texto.pack()
 
 #Loop que mantém a janela aberta. Sem isso a janela se abre e fecha antes de ser mostrada na tela.
