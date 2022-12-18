@@ -1,4 +1,4 @@
-#O mínimo necessário para criar uma janela com Tkinter
+#Vamos adicionar um Label a uma janela com Tkinter.
 
 #Importando o módulo Tkinter
 from tkinter import *
