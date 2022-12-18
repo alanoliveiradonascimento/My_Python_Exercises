@@ -3,7 +3,7 @@
 #Importando o módulo Tkinter
 from tkinter import *
 
-#Criação de uma instância de frame ou janela do Tkinter. Pode ter qualquer nome do lugar de "root"
+#Criação de uma instância de frame ou janela do Tkinter. Pode ter qualquer nome no lugar de "root"
 root = Tk()
 
 #Configuração de "geometria", tamanho do frame ou janela do Tkinter.
