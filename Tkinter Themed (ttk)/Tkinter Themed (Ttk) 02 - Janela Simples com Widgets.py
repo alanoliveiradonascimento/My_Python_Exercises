@@ -17,7 +17,7 @@ def change_text():
 
 
 # Criando um Label
-label = Label(win, text="Click the below button to Change this Text", font= 'Aerial 20 bold')
+label = Label(win, text="Click the below button to Change this Text", font= 'Arial 20 bold')
 label.pack(pady=30)
 
 # Criando um widget Button
