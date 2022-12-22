@@ -46,7 +46,7 @@ a = "pizza"
 b = 50
 print("A %s custa R$ %d" % (a, b))
 
-# Exemplo 03 - Método str.format
+# Exemplo 04 - Método str.format
 # sintaxe 01: print("texto {variável 01} texto {variável 02}.".format(variável 01, variável 02)
 
 x = "carro"
