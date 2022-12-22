@@ -47,13 +47,13 @@ b = 50
 print("A %s custa R$ %d" % (a, b))
 
 # Exemplo 04 - Método str.format
-# sintaxe 01: print("texto {variável 01} texto {variável 02}.".format(variável 01, variável 02)
+# sintaxe 01: print("texto {variável 01} texto {variável 02}.".format(variável 01, variável 02))
 
 x = "carro"
 y = "amarela"
 print("Não curto {} com a cor {}.".format(x, y))
 
-# sintaxe 02: print("texto {posição 0} texto {posição 1}.".format(variável 01, variável 02)
+# sintaxe 02: print("texto {posição 0} texto {posição 1}.".format(variável 01, variável 02))
 # Nesta caso se invertermos o ídice (0 e 1) o conteúdo do {} também muda.
 
 x = "não"
