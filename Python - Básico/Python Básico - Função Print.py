@@ -54,7 +54,7 @@ y = "amarela"
 print("Não curto {} com a cor {}.".format(x, y))
 
 # sintaxe 02: print("texto {posição 0} texto {posição 1}.".format(variável 01, variável 02))
-# Nesta caso se invertermos o ídice (0 e 1) o conteúdo do {} também muda.
+# Neste caso se invertermos o ídice (0 e 1) o conteúdo do {} também muda.
 
 x = "não"
 y = "sim"
