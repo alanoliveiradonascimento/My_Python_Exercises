@@ -14,7 +14,7 @@ frame.title("Minha janela de testes")
 # Ou informando o código HEX da cor que se deseja usar
 # Para mais: https://imagecolorpicker.com/color-code/27677d
 
-frame.config(bg='yellow')
+frame.config(bg='light blue')
 
 # Tamanho da Janela
 frame.geometry('500x250')
