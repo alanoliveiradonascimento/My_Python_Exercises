@@ -9,7 +9,7 @@ from tkinter import messagebox
 import os
 
 # Lista com as opções a serem escolhidas
-options = ["1", "2", "3", "01", "02", "03"]
+options = ["1", "2", "3", "4", "01", "02", "03", "04"]
 
 
 # Classe com as definições do programa
