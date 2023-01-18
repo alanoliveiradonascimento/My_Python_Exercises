@@ -9,5 +9,6 @@ class janela(App):
     def build(self):
         return Label(text="Hello Kivy!")
 
+
 # Executa a aplicação
 janela().run()
