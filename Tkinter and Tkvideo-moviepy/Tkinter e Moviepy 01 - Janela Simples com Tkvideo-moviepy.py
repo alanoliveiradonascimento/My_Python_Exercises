@@ -24,7 +24,7 @@ minha_label.place(x=50, y=50)
 clip = VideoFileClip('Brazilian dog dancing - Hilarious.mp4')
 
 # Variável que será responsável por rodar a imagem dentro do Label
-player = TkVideo(clip, minha_label, loop=20, size=(450, 550))
+player = TkVideo(clip, minha_label, loop=50, size=(450, 550))
 player.play()
 
 janela.mainloop()
